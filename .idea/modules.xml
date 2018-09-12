@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FuzzingDemo/FuzzingDemo.iml" filepath="$PROJECT_DIR$/FuzzingDemo/FuzzingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FuzzingServiceProvider/FuzzingServiceProvider.iml" filepath="$PROJECT_DIR$/FuzzingServiceProvider/FuzzingServiceProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TagReplacer/TagReplacer.iml" filepath="$PROJECT_DIR$/TagReplacer/TagReplacer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs603-hw2-v4.iml" filepath="$PROJECT_DIR$/cs603-hw2-v4.iml" />
+    </modules>
+  </component>
+</project>
